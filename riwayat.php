@@ -10,6 +10,7 @@
   <?php include 'include/css.php'; ?>
   <title>Riwayat Uang Kas</title>
   <link rel="stylesheet" href="assets/fonts/material-icon/css/material-design-iconic-font.min.css">
+ 
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">

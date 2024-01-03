@@ -33,6 +33,17 @@
   <?php include 'include/css.php'; ?>
   <title>Siswa</title>
   <link rel="stylesheet" href="assets/fonts/material-icon/css/material-design-iconic-font.min.css">
+  <style>
+  .btn {
+		border-radius: 8px;
+    padding: 5px;
+	}
+
+  .badge {
+    border-radius: 10px;
+    padding: 8px;
+  }
+</style>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">

@@ -32,6 +32,18 @@
      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
      <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&Roboto+Condensed:wght@700;800&display=swap"
      rel="stylesheet">
+<style>
+  .btn {
+		border-radius: 8px;
+    padding: 5px;
+	}
+
+  .badge {
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom: 5px;
+  }
+</style>
 </head>
 <body class="hold-   sidebar-mini layout-fixed" style="font-family: 'Quicksand', sans-serif;">
 <div class="wrapper">
