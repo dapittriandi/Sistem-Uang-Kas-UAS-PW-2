@@ -27,12 +27,12 @@
   <link rel="stylesheet" href="assets/fonts/material-icon/css/material-design-iconic-font.min.css">
   <style>
   .btn {
-		border-radius: 8px;
+		border-radius: 5px;
     padding: 5px;
 	}
 
   .badge {
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 8px;
   }
 </style>
