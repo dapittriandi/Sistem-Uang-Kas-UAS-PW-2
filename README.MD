@@ -1,6 +1,36 @@
-##TUGAS UAS MATA KULIAH PEMROGRAAMAN WEB 2
-#FITUR FITUR APLIKASI,
-#MENU PENDAFTARAN USER 9 KOLOM YANG DAPAT DI DAFTARKAN OLEH ADMIN,
-#3 USER DENGAN PEMBAGIAN HAK AKSES,
-#TERDAPAT MENU PRINT UNTUK MENCETAK LAPORAN,
-#SISTEM UANG KAS INI DAPAT MENGELOLA PENCATATAN UANG KAS PERMINGGU, PERBULAN, DAN PERTAHUN,  BAHKAN NOMINAL UANG KAS PERMINGGU NYA DAPAT DI SESUAIKAN DALAM ARTIAN NOMINALNYA BERSIFAT DINAMIS DAPAT DI ATUR OLEH USER.
+# Aplikasi Uang Kas Tugas Uas Pemrogramman Web 2.
+Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya. 
+Aplikasi ini hanya dapat menghandle satu kelas saja.
+Meskipun begitu, tapi aplikasi ini sangat praktis dan tetap optimal dengan bisa menghandle uang kas dalam beberapa tahun serta menyediakan fitur-fitur yang sangat dibutuhkan seperti: riwayat pembayaran dan pengeluaran, laporan hasil perbulan dan lain-lain. 
+
+Fitur:
+- Hak akses 3 user yang terdiri dari admin, guru, dan bendahara.
+- Dapat Mengelola Uang Kas Perbulan
+- Dapat Riwayat Pembayaran
+- Dapat Mengelola Pengeluaran
+- DapatRiwayat Pengeluaran
+- Dapat Ganti Password
+- Dan Lainnya.
+
+Akun:
+
+Administrator:
+
+ Username: admin123
+
+ Password: 123456
+
+
+Bendahara:
+
+ Username: novri123
+
+ Password: 123456
+
+
+Guru:
+
+ Username: annisa321
+
+ Password: 123456
+
